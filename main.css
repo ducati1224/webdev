@@ -1,0 +1,51 @@
+body {
+  background-color: bisque;
+  
+}
+
+.container {
+  width: 40%;
+  background-color: #eee;
+  /* height: 100px; */
+  /* padding: 10px; */
+  /* color: white; */
+  /* border: 3px solid red; */
+  /* margin-top: 100px; */
+  margin: 100px auto 0 auto;
+}
+
+.header {
+  /* text-align: center; */
+  color: white;
+  font-size: 30px;
+  padding: 10px 20px;
+  /* background-color: rgb(88, 131, 225); */
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+  top: 20px;
+  right:10px;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 3px 0;
+}
+
+.input {
+  width: 100%;
+  color: rgb(88, 131, 225);
+  font-size: 16px;
+  padding: 13px 20px;
+  border: 0px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
